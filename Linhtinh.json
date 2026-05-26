@@ -1,0 +1,17 @@
+{
+  "name": "vat-kho-bot",
+  "version": "1.0.0",
+  "description": "Bot chạy trốn khỏi bị vắt khô 😭",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "fun",
+    "bot",
+    "meme"
+  ],
+  "author": "ChatGPT",
+  "license": "MIT"
+} 
